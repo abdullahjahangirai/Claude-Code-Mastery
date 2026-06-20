@@ -1,107 +1,251 @@
-<div align="center">
+<!-- ============================================================ -->
+<!--         BANNER — replace src with your actual image          -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="assets/banner/claude-code-mastery-banner.png"
+       alt="Claude Code Mastery — Professional Engineering Grade Knowledge Base"
+       width="100%" />
+</p>
 
-# 🧠 Claude-Code-Mastery
+<br>
 
-### The Complete Architectural Reference for Claude AI & Claude Code
+<!-- ============================================================ -->
+<!--                        BADGES                                -->
+<!-- ============================================================ -->
+<p align="center">
+  <a href="https://github.com/abdullahjahangir/claude-code-mastery/stargazers">
+    <img src="https://img.shields.io/github/stars/abdullahjahangir/claude-code-mastery?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
+  </a>
+  <a href="https://github.com/abdullahjahangir/claude-code-mastery/forks">
+    <img src="https://img.shields.io/github/forks/abdullahjahangir/claude-code-mastery?style=for-the-badge&logo=github&color=blue" alt="Forks"/>
+  </a>
+  <a href="https://github.com/abdullahjahangir/claude-code-mastery/commits/main">
+    <img src="https://img.shields.io/github/last-commit/abdullahjahangir/claude-code-mastery?style=for-the-badge&logo=github&color=green" alt="Last Commit"/>
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/abdullahjahangir/claude-code-mastery?style=for-the-badge&color=purple" alt="License"/>
+  </a>
+  <br/>
+  <a href="https://www.linkedin.com/in/abdullah-jahangir-ai/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="resources/RESOURCES.md">
+    <img src="https://img.shields.io/badge/Resources-Knowledge%20Base-brightgreen?style=for-the-badge" alt="Resources"/>
+  </a>
+  <img src="https://img.shields.io/badge/Built%20With-Claude%20Code-orange?style=for-the-badge&logo=anthropic" alt="Built With Claude Code"/>
+  <img src="https://img.shields.io/badge/Level-Professional%20Engineering-red?style=for-the-badge" alt="Level"/>
+</p>
 
-*A bilingual, engineering-grade knowledge base for developers who want to go beyond "prompting" and actually master the agentic stack.*
+<br>
 
-[![Made For](https://img.shields.io/badge/Made%20For-Developers-blueviolet?style=for-the-badge)](#)
-[![Focus](https://img.shields.io/badge/Focus-Claude%20%7C%20Claude%20Code%20%7C%20MCP-orange?style=for-the-badge)](#)
-[![Docs](https://img.shields.io/badge/Docs-Bilingual%20🇬🇧%20🇵🇰-green?style=for-the-badge)](#)
-[![Status](https://img.shields.io/badge/Status-Actively%20Maintained-success?style=for-the-badge)](#)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](#)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](#)
+<!-- ============================================================ -->
+<!--                     HEADLINE TAGLINE                         -->
+<!-- ============================================================ -->
+<h3 align="center">
+  🧠 A Professional Engineering-Grade Knowledge Base for Mastering Claude Code —<br/>
+  from First Prompt to Production-Ready AI Automation
+</h3>
 
-</div>
+<p align="center">
+  <em>Curated by an AI Automation Engineer. Structured for Developers. Designed to Ship.</em>
+</p>
+
+<br>
 
 ---
 
-## 🎯 Repository Mission
+## ⚡ Quick Links
 
-> **"Don't just use the tool. Understand the architecture behind it."**
+<p align="center">
 
-`Claude-Code-Mastery` exists to give developers — especially in **Pakistan** and the broader South Asian tech community — a single, structured, no-fluff reference for understanding and operating **Claude AI** and **Claude Code** at an expert level.
+| 📖 Comprehensive Guide | 📦 Resources | 🗺️ My Learning Journey |
+|:---:|:---:|:---:|
+| Deep-dive documentation covering every aspect of Claude Code — installation, workflows, agentic patterns, and advanced use cases. | A curated knowledge base of tools, prompts, templates, cheatsheets, and external references to accelerate your mastery. | My personal notes, wins, experiments, and lessons learned as I went from zero to production with Claude Code. |
+| [→ Open Guide](docs/GUIDE.md) | [→ Browse Resources](resources/RESOURCES.md) | [→ Read Journey](docs/LEARNING_JOURNEY.md) |
 
-This repository is built on three pillars:
+</p>
 
-| Pillar | What It Means |
-|---|---|
-| 🏗️ **Architecture First** | We explain *why* Claude Code works the way it does (LLM reasoning + terminal access + MCP), not just *how* to type commands. |
-| 🌍 **Local Relevance** | Every guide includes a Pakistan-specific lens: USD pricing realities, and free local-model alternatives via Ollama. |
-| 🗣️ **Bilingual Access** | Core technical content is written in **English** and **Roman Urdu**, so the depth of the material is never gatekept by language. |
+<br>
 
 ---
 
-## 🏛️ Architectural Overview
+## 🎬 Claude Code in Action
 
-Claude Code is not a single feature — it's a layered system. This repo is organized around that same layered mental model:
+<p align="center">
+  <!-- Replace with your actual demo GIF -->
+  <img src="assets/demo/claude-code-demo.gif"
+       alt="Claude Code in Action — Live Demo"
+       width="85%"
+       style="border-radius: 10px;" />
+  <br/>
+  <sub><sup>↑ Claude Code autonomously scaffolding a full-stack project from a single natural-language prompt</sup></sub>
+</p>
+
+<br>
+
+---
+
+## 🖥️ Terminal — Real Workflow Snapshot
+
+<p align="center">
+  <!-- Replace with an actual screenshot from assets/screenshots/ -->
+  <img src="assets/screenshots/terminal-workflow.png"
+       alt="Claude Code terminal workflow screenshot"
+       width="85%" />
+  <br/>
+  <sub><sup>↑ Captured from a real session — multi-file refactor completed autonomously in under 60 seconds</sup></sub>
+</p>
+
+<br>
+
+---
+
+## 🏗️ What Is This Repository?
+
+<blockquote>
+<strong>Claude Code Mastery</strong> is not just a collection of notes — it is a <em>Professional Engineering-Grade Knowledge Base</em> built with the same rigour applied to internal developer wikis at high-output engineering teams.
+
+Every section has been deliberately structured so that a senior developer or technical recruiter can open any page, immediately understand the depth of expertise documented here, and see real-world, production-applicable knowledge — not surface-level tutorials.
+</blockquote>
+
+### Why It Exists
+
+Most Claude Code content online is either shallow getting-started material or scattered across blog posts. This repo fills the gap: **one authoritative, continuously updated source** covering:
+
+- ✅ Complete CLI reference and configuration
+- ✅ Agentic workflow patterns (Plan → Code → Test → Ship)
+- ✅ MCP server integration and custom tool building
+- ✅ Cost optimisation and token management strategies
+- ✅ Production-grade prompt engineering templates
+- ✅ Real project case studies with lessons learned
+
+<br>
+
+---
+
+## 🧑‍💼 My Professional Identity
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullah-jahangir-ai/">
+    <img src="https://img.shields.io/badge/Abdullah%20Jahangir-AI%20Automation%20Engineer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Abdullah Jahangir — AI Automation Engineer"/>
+  </a>
+</p>
+
+<br>
+
+<h3 align="center">👋 Hi, I'm Abdullah Jahangir</h3>
+
+<p align="center">
+  <strong>AI Automation Engineer</strong> — I design and build intelligent systems that replace repetitive human workflows with autonomous, reliable AI pipelines.
+</p>
+
+<p align="center">
+  My work sits at the intersection of <em>software engineering</em>, <em>prompt architecture</em>, and <em>agentic AI</em>. I use Claude Code daily to accelerate development cycles, automate code reviews, scaffold production systems, and explore what's possible when you treat an AI model as a genuine engineering co-pilot — not just a chatbot.
+</p>
+
+<p align="center">
+  This repository is the live artefact of that practice. Everything documented here has been earned through real usage, not copied from documentation.
+</p>
+
+<p align="center">
+  <strong>Let's connect:</strong>
+  <a href="https://www.linkedin.com/in/abdullah-jahangir-ai/"> LinkedIn — Abdullah Jahangir</a>
+</p>
+
+<br>
+
+---
+
+## 🌐 Community Spotlight — Roman Urdu
+
+> **یہ ریپوزیٹری کیا ہے؟**
+>
+> یہ ایک **professional knowledge base** ہے جو خاص طور پر ان developers اور AI enthusiasts کے لیے بنائی گئی ہے جو **Claude Code** کو سیکھنا اور professionally استعمال کرنا چاہتے ہیں۔
+>
+> اگر آپ Pakistan یا کسی بھی Urdu-speaking community سے ہیں اور AI automation کی دنیا میں قدم رکھنا چاہتے ہیں — تو یہ repo آپ کے لیے ہے۔ ہر concept کو practical اور real-world examples کے ساتھ document کیا گیا ہے۔
+>
+> **سیکھیں، contribute کریں، اور اپنی AI journey شروع کریں۔** 🚀
+>
+> — *Abdullah Jahangir, AI Automation Engineer*
+
+<br>
+
+---
+
+## 📂 Repository Structure
 
 ```
-┌────────────────────────────────────────────────────────────┐
-│                     YOUR TERMINAL / IDE                    │
-│        (where you type natural-language instructions)      │
-└───────────────────────────┬──────────────────────────────────┘
-                            │
-┌───────────────────────────▼──────────────────────────────────┐
-│                  CLAUDE CODE (Agent Layer)                  │
-│  • Reads & plans across your codebase                       │
-│  • Executes file edits, bash commands, git operations       │
-│  • Asks permission before risky actions (Hooks system)      │
-└───────────────────────────┬──────────────────────────────────┘
-                            │
-┌───────────────────────────▼──────────────────────────────────┐
-│         MCP — Model Context Protocol (Connector Layer)      │
-│  • Bridges Claude to external tools: GitHub, databases,     │
-│    Slack, Google Drive, custom internal APIs                │
-└───────────────────────────┬──────────────────────────────────┘
-                            │
-┌───────────────────────────▼──────────────────────────────────┐
-│              THE REASONING ENGINE (Claude Model)             │
-│  • Sonnet / Opus / Haiku family — the "brain" that plans,    │
-│    reasons, and generates code & decisions                  │
-└──────────────────────────────────────────────────────────────┘
+claude-code-mastery/
+│
+├── 📁 assets/
+│   ├── 📁 banner/          ← Repository banner image
+│   ├── 📁 demo/            ← Animated demo GIF
+│   └── 📁 screenshots/     ← Terminal and workflow screenshots
+│
+├── 📁 docs/
+│   ├── GUIDE.md            ← Comprehensive Claude Code guide
+│   └── LEARNING_JOURNEY.md ← Personal notes and progression log
+│
+├── 📁 resources/
+│   └── RESOURCES.md        ← Curated tools, prompts & references
+│
+├── 📁 examples/            ← Real-world project examples
+│
+└── README.md               ← You are here
 ```
 
-Each layer maps directly to a section in our [Comprehensive Guide](docs/COMPREHENSIVE-GUIDE.md).
+<br>
 
 ---
 
-## 🧭 Navigation Table
+## 🚀 Getting Started in 60 Seconds
 
-| 📄 File | 📌 Purpose | 🌐 Language |
-|---|---|---|
-| [`README.md`](README.md) | You are here — mission, architecture, quick orientation | EN + Roman Urdu summary |
-| [`docs/COMPREHENSIVE-GUIDE.md`](docs/COMPREHENSIVE-GUIDE.md) | Full technical master file: history, internals, pricing vs. Ollama, skill roadmap, hook-based security | EN + Roman Urdu (full) |
-| [`visuals_and_structure.md`](visuals_and_structure.md) | Recommended repo folder layout, asset organization, and badge library | EN |
-| `assets/` | Screenshots, diagrams, terminal recordings | — |
-| `.github/` | Issue templates, contribution guidelines, community health files | — |
+```bash
+# 1. Install Claude Code (requires Node.js 18+)
+npm install -g @anthropic-ai/claude-code
 
----
+# 2. Authenticate
+claude
 
-## 🇬🇧 Why This Matters for Pakistani Developers
+# 3. Launch in your project directory
+cd your-project
+claude
 
-Claude Code represents a structural shift in how software gets built: instead of writing every line manually, a developer **directs an agent** that can read an entire repository, plan multi-file changes, run tests, and self-correct. For Pakistani developers — many of whom work as freelancers on global platforms or in lean local startups — this translates into a real competitive advantage: a single developer can credibly deliver work that previously required a small team, competing on **global timelines without global headcount**. The cost barrier (USD-denominated pricing vs. PKR income) is real, but as this guide covers, there are practical paths around it — from disciplined use of the entry-level subscription tier to **fully free local workflows using Ollama** for learning, prototyping, and non-sensitive work.
+# 4. Try your first agentic command
+> "Explain the architecture of this codebase, then suggest 3 improvements"
+```
 
-## 🇵🇰 Pakistani Developers Ke Liye Iski Ahmiyat (Roman Urdu)
+> **Tip:** Head to the [Comprehensive Guide](docs/GUIDE.md) to go beyond the basics immediately.
 
-Claude Code asal mein software banane ka tareeqa hi badal deta hai: ab developer har line khud nahi likhta, balke ek **AI agent ko direct karta hai** jo poora codebase parh sakta hai, multiple files mein changes plan kar sakta hai, tests chala sakta hai, aur apni ghaltiyan khud theek kar sakta hai. Pakistani developers ke liye — jin mein bohat se freelancing platforms par kaam karte hain ya chhoti local startups mein hotay hain — iska matlab hai ek **real competitive advantage**: ab aik single developer wo kaam credibly deliver kar sakta hai jiske liye pehle poori team chahiye hoti thi, aur **global clients ke timelines ko global team ke bina** match kar sakta hai. Pricing ka masla (USD mein cost vs. PKR income) haqeeqi hai, lekin jaisa is guide mein cover kiya gaya hai, iske practical hal maujood hain — entry-level subscription ko disciplined tareeqe se use karne se le kar, **Ollama ke zariye bilkul free local workflow** tak jo learning, prototyping, aur non-sensitive kaam ke liye chal jata hai.
-
----
-
-## 🚀 Quick Start
-
-1. Read the [Architectural Overview](#-architectural-overview) above to build your mental model.
-2. Jump into [`docs/COMPREHENSIVE-GUIDE.md`](docs/COMPREHENSIVE-GUIDE.md) for the full technical deep-dive.
-3. Use [`visuals_and_structure.md`](visuals_and_structure.md) if you're organizing your own fork or documentation hub.
-4. Star ⭐ the repo if this saved you research time — it helps other developers find it too.
+<br>
 
 ---
 
-<div align="center">
+## 🤝 Contributing
 
-**Built with 🧠 + ☕ for the developer community.**
+Contributions, corrections, and real-world examples are welcome. If you've found a workflow pattern, prompt template, or Claude Code trick not documented here — open a PR. This repo grows through the community.
 
-*Contributions, corrections, and translations welcome — see `.github/CONTRIBUTING.md`.*
+1. Fork the repository
+2. Create your branch: `git checkout -b feature/your-addition`
+3. Commit your changes: `git commit -m "Add: [brief description]"`
+4. Push and open a Pull Request
 
-</div>
+<br>
+
+---
+
+## 📄 License
+
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
+
+<br>
+
+---
+
+<p align="center">
+  <sub>
+    Built with 🧠 by <a href="https://www.linkedin.com/in/abdullah-jahangir-ai/"><strong>Abdullah Jahangir</strong></a> — AI Automation Engineer
+    <br/>
+    If this repository helped you, consider giving it a ⭐ — it helps others discover it.
+  </sub>
+</p>
