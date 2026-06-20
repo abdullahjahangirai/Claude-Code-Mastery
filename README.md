@@ -1,10 +1,21 @@
 <!-- ============================================================ -->
-<!--         BANNER — replace src with your actual image          -->
+<!--     BANNER — add assets/banner/ to repo then uncomment       -->
 <!-- ============================================================ -->
+<!--
 <p align="center">
   <img src="assets/banner/claude-code-mastery-banner.png"
        alt="Claude Code Mastery — Professional Engineering Grade Knowledge Base"
        width="100%" />
+</p>
+-->
+
+<p align="center">
+  <strong>
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br/>
+    &nbsp;&nbsp;&nbsp;🤖&nbsp;&nbsp;C L A U D E &nbsp; C O D E &nbsp; M A S T E R Y&nbsp;&nbsp;🤖<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professional Engineering-Grade Knowledge Base<br/>
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  </strong>
 </p>
 
 <br>
@@ -13,17 +24,17 @@
 <!--                        BADGES                                -->
 <!-- ============================================================ -->
 <p align="center">
-  <a href="https://github.com/abdullahjahangir/claude-code-mastery/stargazers">
-    <img src="https://img.shields.io/github/stars/abdullahjahangir/claude-code-mastery?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
+  <a href="https://github.com/abdullahjahangirai/Claude-Code-Mastery/stargazers">
+    <img src="https://img.shields.io/github/stars/abdullahjahangirai/Claude-Code-Mastery?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
   </a>
-  <a href="https://github.com/abdullahjahangir/claude-code-mastery/forks">
-    <img src="https://img.shields.io/github/forks/abdullahjahangir/claude-code-mastery?style=for-the-badge&logo=github&color=blue" alt="Forks"/>
+  <a href="https://github.com/abdullahjahangirai/Claude-Code-Mastery/forks">
+    <img src="https://img.shields.io/github/forks/abdullahjahangirai/Claude-Code-Mastery?style=for-the-badge&logo=github&color=blue" alt="Forks"/>
   </a>
-  <a href="https://github.com/abdullahjahangir/claude-code-mastery/commits/main">
-    <img src="https://img.shields.io/github/last-commit/abdullahjahangir/claude-code-mastery?style=for-the-badge&logo=github&color=green" alt="Last Commit"/>
+  <a href="https://github.com/abdullahjahangirai/Claude-Code-Mastery/commits/main">
+    <img src="https://img.shields.io/github/last-commit/abdullahjahangirai/Claude-Code-Mastery?style=for-the-badge&logo=github&color=green" alt="Last Commit"/>
   </a>
   <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/abdullahjahangir/claude-code-mastery?style=for-the-badge&color=purple" alt="License"/>
+    <img src="https://img.shields.io/github/license/abdullahjahangirai/Claude-Code-Mastery?style=for-the-badge&color=purple" alt="License"/>
   </a>
   <br/>
   <a href="https://www.linkedin.com/in/abdullah-jahangir-ai/">
@@ -72,14 +83,24 @@
 ## 🎬 Claude Code in Action
 
 <p align="center">
-  <!-- Replace with your actual demo GIF -->
-  <img src="assets/demo/claude-code-demo.gif"
-       alt="Claude Code in Action — Live Demo"
-       width="85%"
-       style="border-radius: 10px;" />
-  <br/>
-  <sub><sup>↑ Claude Code autonomously scaffolding a full-stack project from a single natural-language prompt</sup></sub>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│        📽️  DEMO GIF COMING SOON                                 │
+│                                                                 │
+│   Record a Claude Code session and save it as:                  │
+│   assets/demo/claude-code-demo.gif                              │
+│                                                                 │
+│   Then replace this block with:                                 │
+│   <img src="assets/demo/claude-code-demo.gif" width="85%" />   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
 </p>
+
+> 💡 **What you'll see in the demo:** Claude Code autonomously scaffolding a full-stack project from a single natural-language prompt — no manual file creation, no copy-pasting boilerplate.
 
 <br>
 
@@ -88,13 +109,25 @@
 ## 🖥️ Terminal — Real Workflow Snapshot
 
 <p align="center">
-  <!-- Replace with an actual screenshot from assets/screenshots/ -->
-  <img src="assets/screenshots/terminal-workflow.png"
-       alt="Claude Code terminal workflow screenshot"
-       width="85%" />
-  <br/>
-  <sub><sup>↑ Captured from a real session — multi-file refactor completed autonomously in under 60 seconds</sup></sub>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│        🖼️  SCREENSHOT COMING SOON                               │
+│                                                                 │
+│   Take a screenshot of a real Claude Code session and save as:  │
+│   assets/screenshots/terminal-workflow.png                      │
+│                                                                 │
+│   Then replace this block with:                                 │
+│   <img src="assets/screenshots/terminal-workflow.png"           │
+│        width="85%" />                                           │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
 </p>
+
+> ⚡ **What this shows:** A real session — multi-file refactor completed autonomously in under 60 seconds.
 
 <br>
 
@@ -175,23 +208,25 @@ Most Claude Code content online is either shallow getting-started material or sc
 ## 📂 Repository Structure
 
 ```
-claude-code-mastery/
+Claude-Code-Mastery/
 │
-├── 📁 assets/
-│   ├── 📁 banner/          ← Repository banner image
-│   ├── 📁 demo/            ← Animated demo GIF
-│   └── 📁 screenshots/     ← Terminal and workflow screenshots
+├── 📁 assets/                      ← Create this folder in your repo
+│   ├── 📁 banner/                  ← Drop your banner PNG here
+│   ├── 📁 demo/                    ← Drop your demo GIF here
+│   └── 📁 screenshots/             ← Drop terminal screenshots here
 │
 ├── 📁 docs/
-│   ├── GUIDE.md            ← Comprehensive Claude Code guide
-│   └── LEARNING_JOURNEY.md ← Personal notes and progression log
+│   ├── GUIDE.md                    ← Comprehensive Claude Code guide
+│   └── LEARNING_JOURNEY.md         ← Personal notes and progression log
 │
 ├── 📁 resources/
-│   └── RESOURCES.md        ← Curated tools, prompts & references
+│   └── RESOURCES.md                ← Curated tools, prompts & references
 │
-├── 📁 examples/            ← Real-world project examples
+├── 📁 examples/                    ← Real-world project examples
 │
-└── README.md               ← You are here
+├── visuals_and_structure.md
+├── .gitignore
+└── README.md                       ← You are here
 ```
 
 <br>
